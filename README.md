@@ -29,6 +29,11 @@ I'm passionate about continuous learning and enjoy transforming raw data into cl
 - Advanced SQL
 - Power BI
 
+### 🛠️ Tech Toolbox
+- **Languages:** Python, SQL
+- **Data Analysis:** pandas, NumPy, Data Cleaning, Exploratory Data Analysis, Data Visulisation
+- **Applications:** Microsoft Fabric, Power BI, MySQL, Azure SQL, Microsoft Excel
+
 ### 🎓Education
 - **Diploma in Digital Technology Development and Design**, Mission Ready HQ
 - **Certificate in Business Administration and Computing**, Avonmore Training Institute
